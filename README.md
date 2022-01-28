@@ -5,7 +5,6 @@ La base de données doit exister avant d'éxécuter ``config/install.php``
 
 
 
-
 # Liens utiles
 [Petit guide des commandes en mark-down](https://www.markdownguide.org/basic-syntax/)
 
